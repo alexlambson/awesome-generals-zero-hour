@@ -18,7 +18,7 @@ I am just trying to consolidate the numerous fixes hidden away on discord server
 Simple, just [fork the repo](https://help.github.com/articles/fork-a-repo/) and continue my work. As long as github remains, these fixes will be here.
 And since Microsoft owns github now, it will probably outlive all of us
 
-# "Can you add a link to my tool / fix instead of adding it to the reo?"
+# "Can you add a link to my tool / fix instead of adding it to the repo?"
 
 Yes, if you'd prefer that. However, I would rather make you a contributor to the repo so it can be hosted here. 
 I am worried about more fan sites going down and taking their knowledge and community contributions with them. 
@@ -40,4 +40,5 @@ However, there are many amazing mods for Zero Hour.
 To name a few (in no particular order):
 - [Project Raptor](https://www.moddb.com/mods/project-raptor-the-foxtrot-code). This mod is great for being able to play the og Zero Hour with new stuff. Last I checked, the vanilla campaigns and skirmish missions work with Project Raptor since they only added things. 
 - [Rise of the Reds](https://www.moddb.com/mods/generals-project-raptor-9118) live out your WWIII fantasies
-- 
+- [Shockwave](https://www.moddb.com/mods/cc-shockwave). Widely regarded as the best competitive multiplayer mod
+- [MOAR](https://www.moddb.com/games/cc-generals-zero-hour/mods) ModDB is currently the best source of C&C Generals: Zero Hour mods
